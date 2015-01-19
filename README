@@ -1,0 +1,9 @@
+To compile: 
+
+	gcc main.c bmp.c -o run
+
+To run:
+
+	./run smallFlower.bmp newSmallFlower.bmp
+	
+
